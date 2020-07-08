@@ -1,0 +1,20 @@
+baseURL: https://volunteer-qa.ieee.org/
+testUsers:
+ volunteers:
+  user1:
+   username: 93676109@domain.com
+   password: qaIEEE
+   profileName: Stephen Life Senior
+   siebelNumber: 05257431
+  user2: 
+   username:
+   password:
+   profileName:
+   siebelNumber:
+ members:
+  user1:
+   username: 02363505@domain.com
+   password: qaIEEE
+   profileName: Jerry Member
+   siebelNumber: 0
+  
